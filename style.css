@@ -1,0 +1,395 @@
+*{
+	font-family: 'Oswald', sans-serif;
+	text-decoration: none;
+	margin: 0;
+	padding: 0;
+
+}
+body{
+	background: url(../foto/dP7t8.jpg) fixed;
+}
+
+h1{
+	color: white;	
+	transition: all 0.5;
+	font-weight: normal;
+
+}
+h2{
+	text-align: center;
+	font-size: 2vmax;
+}
+
+
+section{
+	width: 70%;
+	margin: 0 auto;
+	background: white;
+	border-radius: 20px;
+	padding-bottom: 100px;
+	padding-top: 50px;
+	box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.7);
+
+}
+
+
+.hea{
+	width: 100%;
+	height: auto;
+	display: flex;
+	margin: 0 auto;
+	justify-content: space-around;
+	
+	background-size: 100%;
+	margin-bottom: 50px;
+	align-items: center;
+	
+}
+.hea .sa{
+	width: 70%;	
+	display: flex;
+	justify-content: space-around;
+	
+}
+
+.hea h1{
+	font-size: 3vmax;
+	font-weight: normal;
+	text-shadow: 1px 1px 2px black, 0 0 1em black;
+
+
+}
+.qqq{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+
+footer{
+	width: auto;
+	height: auto;
+	background: green;
+	margin: 0;
+	padding: 0;
+	box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.3);
+	padding-bottom: 50px;
+	margin-top: 50px;
+}
+.foo{
+	width: 50vmax;
+	margin: 0 auto;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+
+	}
+.foo p,.foo span{
+
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	padding: 0;
+	flex-basis: 100%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	color:white;
+}
+.news{
+	width: 70%;
+	background: white;
+	border-radius: 20px;
+	margin: 0 auto;
+	
+	display: flex;
+	justify-content: center;
+	height: auto;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	flex-wrap: wrap;
+	margin-bottom: 50px;
+}
+
+.news h1{
+	font-size: 2vmax;
+	padding: 10px;
+	color: #00001e;	
+}
+.inf{
+	color:white;
+	background: #00001e;
+	font-size: 20px;
+	width: 90%;
+	margin: 0 auto;
+	border-radius: 5px;
+	margin-bottom: 50px;	
+}
+
+
+.img{
+	display: flex;	
+
+	flex-wrap: wrap;
+}
+.img img{
+	padding: 10px;	
+	width: 30%;
+	flex-basis: 40%;
+
+	height: auto;
+	
+}
+.bbb{
+	flex-basis: 50%;
+}
+.inform h1 {
+	text-align: center;
+}
+.sov{
+	width: 70%;
+	display: block;	
+	margin: 0 auto;
+	
+}
+.sov h1 {
+	color:black;
+	text-align: center;
+	margin-top: 60px;
+	
+}
+.sov div{
+	display: block;
+	margin: 0 auto;
+}
+.sov a{
+	width: 2vmax;
+	display: flex;
+	justify-content: center;
+	padding: 20px;
+	margin: 0 auto;
+	color:white;
+	background: black;
+	margin-top: 30px;
+
+}
+.ss{
+	flex-basis: 100%;
+	margin: 0 auto;
+}
+.in , .foo{
+	width: 80%;
+	margin: 0 auto;
+}
+.in p{
+	margin-top: 50px;
+	font-size: 1vw;
+
+}
+.boo{
+	width: 50px;
+	height: 50px;
+	border-radius: 100px;
+	background: #ff0048;
+	display: flex;
+	align-items: center;
+
+}
+.bob{
+	margin-top: 100px;
+	display: flex;
+
+}
+.a{
+	display: flex;
+	align-items: center;
+}
+.a a{
+	color:black;
+	font-size: 2.5vmax;
+	margin-left: 100px;
+
+}
+.a b{
+	color:red;
+}
+.image{
+	
+	margin: 0 auto;
+	display: block;
+	margin-top: 100px;
+	
+}
+.image img{
+	width: 100%;
+	display: block;
+	margin: 0 auto;
+}
+.news img{
+	margin: 0 auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	width: 90%;
+	border-radius: 20px;
+}
+p{
+	font-size: 1vmax;
+}
+section h2{
+	margin-top: 20px;
+color:black ;
+}
+/*///////////////////////////////*/
+.sa img{
+	margin-top: 20px;
+	border-radius: 500px;
+	box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.7);
+	width: 90%;
+	margin: 0 auto;
+	margin-top: 20px;
+	border:5px solid white;
+
+}
+.sa a{
+	display: block;
+	margin: 0 auto;
+}
+.sa{
+	display: block;
+	margin: 0 auto;
+}
+.sss{
+	display: block;
+	margin: 0 auto;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+.dad{
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	
+
+}
+.dad a{
+	font-size: 30px;
+	color: black;
+	background: rgba(255, 213, 0, 1);
+	padding: 10px;
+	border-radius: 20px;
+	box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.7);
+	margin-bottom: 10px;
+
+
+}
+.one{
+	display: flex;
+	justify-content: center;
+	width: 90%;
+	margin: 0 auto: ;
+}
+.pra{
+	display: block;
+	width: 30%;
+	text-align: center;
+	margin: 0 auto;
+	padding: 10px;
+	background: red;
+	color:white;
+	border-radius: 5px;
+}
+.katal{
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	margin: 0 auto;
+
+}
+.bob{
+
+	flex-basis: 15%;
+	width: 200px;
+	height: 200px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	border-radius: 20px;
+	box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.7);
+}
+.bob a{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	color: white;
+	opacity: 1 !important;
+	background: black;
+	padding: 10px;
+	box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.7);
+}
+.b1{
+	background: url(../foto/111.jpg);
+
+}
+.b2{
+	background: url(../foto/1111.jpg);
+}
+.b3{
+	background: url(../foto/333.jpeg);
+}
+
+.dod{
+	width: 100%;
+	height: 100%;
+	background: black;
+	opacity: 0.5;
+	display: block;
+}
+.in{
+	text-align: center;
+}
+.in h1{
+	border: 2px solid black;
+	padding: 10px;
+	margin-top: 10px;
+	border-radius: 50px;
+}
+.in p , .in h1 {
+	color:black;
+}
+.in img{
+	width: 60%;
+	margin: 0 auto;
+
+}
+.qqq h1{
+	font-size: 50px;
+	background: green;
+	width: 30%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 20px;
+	box-shadow: 0 0 20px black;
+	border-radius: 20px;
+}
+@media screen and (max-width: 600px) { 
+	h1{
+		font-size: 30px !important;
+		padding: 20px !important;
+	}
+	.block{
+		display: block;
+	}
+	.dad a{
+	font-size: 10px;
+}
+   section {
+    width: 90%
+    }
+    .in p{
+    	font-size: 15px;
+    }
+}
